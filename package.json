@@ -1,5 +1,5 @@
 {
-  "name": "express-boilerplate",
+  "name": "trello-server",
   "version": "0.0.1",
   "description": "",
   "main": "server.js",
@@ -11,7 +11,7 @@
     "deploy": "git push heroku master"
   },
   "keywords": [],
-  "author": "Thomas `tomatao` Hudspith-Tatham <iammotivated@gmail.com>",
+  "author": "Vincent Ramdhanie",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
